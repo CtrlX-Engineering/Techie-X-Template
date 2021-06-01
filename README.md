@@ -6,3 +6,8 @@ Development Status : In Progress<br/>
 Tools and Technologies : React & Strapi<br/>
 Live Site : Yet to deploy
 
+# To run the application
+
+<b>Front-End</b><br/>
+>cd frontend<br/>
+>npm start
